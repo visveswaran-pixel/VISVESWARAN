@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>IT Service</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <header>
+    <h1>Welcome to our IT Service</h1>
+  </header>
+
+  <main>
+    <section>
+      <h2>About Us</h2>
+      <p>We provide reliable and efficient IT solutions for businesses.</p>
+    </section>
+
+    <section>
+      <h2>Services</h2>
+      <ul>
+        <li>Network setup and maintenance</li>
+        <li>Software development</li>
+        <li>Data backup and recovery</li>
+        <li>IT consulting</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Contact Us</h2>
+      <p>Email: info@example.com</p>
+      <p>Phone: 123-456-7890</p>
+      <p>Address: 123 Main Street, City, Country</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2022 IT Service. All rights reserved.</p>
+  </footer>
+  
+  <script src="script.js"></script>
+</body>
+
+</html>
